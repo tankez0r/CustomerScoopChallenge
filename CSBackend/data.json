@@ -1,0 +1,52 @@
+[
+    {
+        "name": "ITServices",
+        "churnRate": "88%",
+        "leadConvertion": "0,7%"
+    },
+    {
+        "name": "Software",
+        "churnRate": "86%",
+        "leadConvertion": "1,8%"
+    },
+    {
+        "name": "Industry services",
+        "churnRate": "83%",
+        "leadConvertion": "1,5%"
+    },
+    {
+        "name": "Financial Services",
+        "churnRate": "81%",
+        "leadConvertion": "2,5%"
+    },
+    {
+        "name": "Telecommunications",
+        "churnRate": "69%",
+        "leadConvertion": "0,7%"
+    },
+    {
+        "name": "Manufacturing",
+        "churnRate": "65%",
+        "leadConvertion": "0,9%"
+    },
+    {
+        "name": "Logistics",
+        "churnRate": "60%",
+        "leadConvertion": "1,8%"
+    },
+    {
+        "name": "Massive Consume",
+        "churnRate": "81%",
+        "leadConvertion": "0,8%"
+    },
+    {
+        "name": "Wholesale",
+        "churnRate": "65%",
+        "leadConvertion": "1,8%"
+    },
+    {
+        "name": "Retail",
+        "churnRate": "81%",
+        "leadConvertion": "0,8%"
+    }
+]

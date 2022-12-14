@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=K2D:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+.whiteboxContainer {
+  font-family: "K2D";
+  background-color: rgba(240, 248, 255, 0.849);
+  display: inline-block;
+  border-radius: 3%;
+  margin: 0 10px;
+  padding: 5px 40px 30px 40px;
+  line-height: 2px;
+}
+.whiteboxContainer h4 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.whiteboxContainer span {
+  font-size: 40px;
+  font-weight: 700;
+  margin-left: 5px;
+}
+.rateContainer {
+  display: flex;
+  align-items: center;
+}

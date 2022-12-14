@@ -1,0 +1,53 @@
+.s2fContainer {
+  position: relative;
+  margin: 0 100px;
+}
+.s2frame {
+  position: relative;
+}
+
+.s2Tittle{
+  font-weight: 400;
+  text-align: center;
+  color:#2c183d
+}
+
+.s2textContainer {
+  position: absolute;
+  z-index: 10;
+  bottom: 7%;
+  right: 12%;
+}
+
+.SpanContainers {
+  display: flex;
+}
+
+.spanTable {
+  color: #231331;
+  font-size: 15px;
+  line-height: 15px;
+  display: table-caption;
+  margin: 0 15px;
+}
+.span1{
+  text-align: right;
+}
+.span2{
+  text-align: left;
+}
+
+
+
+.percentage {
+  font-size: 40px;
+  position: relative;
+  top: 15px;
+  font-weight: 900;
+}
+.Separator {
+  border: solid 1px #231331;
+  position: relative;
+  z-index: 5;
+  height: 130px;
+}

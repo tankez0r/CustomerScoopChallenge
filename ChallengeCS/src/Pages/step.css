@@ -1,0 +1,57 @@
+.container {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #f4f4f4;
+  min-height: 615px;
+  min-width: 1270px;
+}
+.ButtonsBlock {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin: 9px 6px 45px 5px;
+}
+.textBlock {
+  line-height: 20px;
+  text-align: left;
+  margin: 0 100px;
+}
+
+.textBlock h4 {
+  font-size: 25px;
+  margin: 5px 0px;
+}
+.textBlock h3 {
+  font-size: 40px;
+  margin: 5px 0px;
+}
+.textBlock span {
+  font-size: 25px;
+}
+
+.whiteTittle {
+  color: white;
+  font-size: 40px;
+}
+
+.greenBG {
+  background-color: #3bc677;
+  border-top: 10px solid;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(
+    90deg,
+    rgba(255, 172, 4, 1) 0%,
+    rgba(231, 202, 32, 1) 45%,
+    rgba(158, 210, 49, 1) 63%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+.extendsHeight {
+  min-height: 615px;
+  position: absolute;
+  right: 0%;
+  top: 0%;
+}

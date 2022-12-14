@@ -1,0 +1,61 @@
+.Btn {
+  border: 1px solid black;
+  color: #220b2e;
+  width: fit-content;
+  height: fit-content;
+  font-family: "K2D";
+  border-radius: 100px;
+  padding: 12px 30px;
+  background-color: aliceblue;
+  font-size: 14px;
+  user-select: none;
+  transition: ease-in;
+  font-weight: 500;
+  transition-duration: 0.17s;
+}
+
+.Btn:hover {
+  background-color: rgba(24, 57, 243, 0.829);
+  color: aliceblue;
+}
+.darkButton {
+  border: 3px solid #311946;
+  background-color: #2d183f;
+  transition: none;
+  color: aliceblue;
+  transition: ease-in;
+  transition-duration: 0.17s;
+}
+
+.darkButton:hover {
+  background-color: #3f185f;
+  border-color: #3f185f;
+  color: aliceblue;
+}
+
+.YellowButton {
+  background-color: #ffcf00;
+  border-color: #ffcf00;
+  color: #154583;
+}
+
+.YellowButton:hover {
+  background-color: #ffee00;
+  border-color: #ffee00;
+  color: rgb(70, 63, 177);
+}
+
+.confirmButton {
+  background-color: #1d5aaa;
+  color: white;
+}
+
+.btn-disabled {
+  background-color: rgb(114, 114, 114);
+  border-color: rgb(114, 114, 114);
+}
+
+.btn-disabled:hover {
+  background-color: rgb(184, 184, 184);
+  border-color: rgb(184, 184, 184);
+}
